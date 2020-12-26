@@ -1,0 +1,2 @@
+ist observation time,type,ip,host,domain name,sector,target,url
+2018-10-01 13:35:59IST,phishing,179.61.232.55,,www.ci-rack.com,,Other,https://www.ci-rack.com/carasuol/ebanking-ch.com/web/-/ubs/log/secure-code49/security/34d8b118f4a82c7d839deedf87b653d1/
